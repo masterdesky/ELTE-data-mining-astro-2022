@@ -1,1 +1,1 @@
-# ELTE_Data_Mining_PhD_2022
+# Data Mining in Astronomy 2021-2022/2 @ ELTE
